@@ -4,3 +4,6 @@ we use various supervised machine learning classifiers to predict the result of 
 
 
 Dataset is found on http://www.football-data.co.uk/
+
+
+Co-contributer ---------------Ribhu lahiri
